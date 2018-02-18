@@ -7,3 +7,4 @@
 #' @format a data.frame with columns first_name number, sex.
 #' @source Stats SA
 NULL
+globalVariables("sa_names")
