@@ -11,4 +11,4 @@ URL: https://github.com/maelle/someone
 BugReports: https://github.com/maelle/someone/issues
 Suggests: 
     testthat
-License: MIT + file LICENSE
+License: GPL3 + file LICENCE
