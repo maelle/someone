@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-Hey we can create someone! with a name and a age!
+Hey we can create someone! With a name and an age!
 
 ```{r}
 library("someone")
