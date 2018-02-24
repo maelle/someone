@@ -14,7 +14,7 @@ Suggests:
     knitr,
     rmarkdown,
     covr
-License: MIT + file LICENCE.md
+License: MIT + file LICENCE
 VignetteBuilder: knitr
 Imports: 
     praise,
