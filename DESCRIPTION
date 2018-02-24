@@ -13,7 +13,7 @@ Suggests:
     testthat,
     knitr,
     rmarkdown
-License: GPL3 + file LICENCE
+License: MIT + file LICENCE
 VignetteBuilder: knitr
 Imports: 
     praise,

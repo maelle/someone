@@ -7,7 +7,7 @@
 praise_me(name)
 }
 \arguments{
-\item{name}{}
+\item{name}{the person to be praised}
 }
 \value{
 a praise!

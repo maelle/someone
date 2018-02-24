@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @param name
+#' @param name the person to be praised
 #'
 #' @importFrom magrittr "%>%"
 #'
