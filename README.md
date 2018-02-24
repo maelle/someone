@@ -1,4 +1,4 @@
- [![Travis build status](https://travis-ci.org/maelle/someone.svg?branch=master)](https://travis-ci.org/maelle/someone)
+ [![Travis build status](https://travis-ci.org/maelle/someone.svg?branch=master)](https://travis-ci.org/maelle/someone) [![Coverage status](https://codecov.io/gh/maelle/someone/branch/master/graph/badge.svg)](https://codecov.io/github/maelle/someone?branch=master)
 
 # someone
 

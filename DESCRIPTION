@@ -12,7 +12,8 @@ BugReports: https://github.com/maelle/someone/issues
 Suggests: 
     testthat,
     knitr,
-    rmarkdown
+    rmarkdown,
+    covr
 License: MIT + file LICENCE
 VignetteBuilder: knitr
 Imports: 
