@@ -1,3 +1,5 @@
+ [![Travis build status](https://travis-ci.org/maelle/someone.svg?branch=master)](https://travis-ci.org/maelle/someone)
+
 # someone
 
 The goal of someone is to let us try things out.
