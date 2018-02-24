@@ -15,3 +15,6 @@ Suggests:
     rmarkdown
 License: GPL3 + file LICENCE
 VignetteBuilder: knitr
+Imports: 
+    praise,
+    magrittr

@@ -2,3 +2,5 @@
 
 export(give_age)
 export(give_name)
+export(praise_me)
+importFrom(magrittr,"%>%")
